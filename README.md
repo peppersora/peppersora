@@ -42,8 +42,10 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppersora&layout=compact">
+	<br>
+	<div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=peppersora&show_icons=true">
-<div align=center>
+
 ![PepperSora's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=peppersora)
 	</div>
 </div>
